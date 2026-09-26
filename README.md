@@ -1,4 +1,4 @@
-🎓 EBAC — Módulo 13: Estilização com SASS
+# 🎓 EBAC — Módulo 13: Estilização com SASS
 
 ## 📖 Sobre
 
